@@ -1,0 +1,15 @@
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\bin\Debug\LG.exe
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\bin\Debug\LG.pdb
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.csproj.AssemblyReference.cache
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.Form1.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.MainPage.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.Properties.Resources.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.csproj.GenerateResource.cache
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.csproj.CoreCompileInputs.cache
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.exe
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.pdb
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.user.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.Pages.add_product.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.Pages.edit_product.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.Pages.add_employee.resources
+C:\Users\Pciman-4.5.6\Desktop\project\LG\LG\obj\Debug\LG.Pages.edit_employee.resources
